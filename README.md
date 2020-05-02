@@ -20,3 +20,7 @@ Digital Pin 8 | Output | Left Servo Control
 Digital Pin 9 | Output | Right Servo Control
 
 The code can be compiled and download to the Arduino Uno board using the (Arduino IDE)[https://www.arduino.cc/en/main/software].
+
+## Video Demonstration
+The following link is a live demo of the robot navigating a simple maze with a lit candle inside.
+
